@@ -25,7 +25,7 @@ El objetivo de ReactApp Pro es facilitar la gestión de proyectos y la colaborac
 
 ## HUs
 1. [**HU-001**: Como usuario, quiero poder crear un nuevo proyecto para organizar mis tareas.](https://link.com)
-2. [**HU-002**: Como usuario, quiero poder asignar tareas a los miembros del equipo para gestionar mejor el trabajo.]((https://link.com))
+2. [**HU-002**: Como usuario, quiero poder asignar tareas a los miembros del equipo para gestionar mejor el trabajo.](https://link.com)
 3. [**HU-003**: Como administrador, quiero poder ver el progreso de los proyectos en un dashboard.](https://link.com)
 
 ## Instalación
