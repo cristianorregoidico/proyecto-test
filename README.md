@@ -95,3 +95,6 @@ reactapp-pro/
 |Proyecto R1|Suministra endpoints API|https://github.com/RepoIdico/proyecto-r1|
 |Proyecto R2|Bodega de datos R2|https://github.com/RepoIdico/bodega-r3|
 
+## Referencias y Enlaces Adicionales
+- [Documento PDD](https://enlace.com)
+- [Video de contexto](https://youtube.com)
