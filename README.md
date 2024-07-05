@@ -48,8 +48,9 @@ npm install
 reactapp-pro/
 │   README.md
 │   package.json
-│
+├───public/
 └───src/
+    ├───assets/
     ├───components/
     ├───containers/
     ├───services/
